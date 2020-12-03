@@ -434,6 +434,7 @@ Quora is a question-and-answer site, where you can get traffic by helping the co
 * [Growth Hacking 1,500+ Visits From Quora](http://webris.org/how-to-drive-10000-monthly-visits-using-quora/) by Ryan Stewart.
 * [How to Get Thousands of Leads from Quora in Five Months](https://sumo.com/stories/quora-traffic) by Josh Fechter, the "Top Quora Writer of 2017."
 * [How To Use Quora For SEO & Content Marketing](https://www.shivarweb.com/10583/how-to-use-quora-for-seo-content-marketing/) by Nate Shivar.
+* [QApop](https://www.qapop.com/) tool to identify relevant question on Quora (free plan).
 
 ## Viral Marketing
 [The K-Factor, “Growth” and Going Viral](https://bothgunsblazingblog.wordpress.com/2013/10/22/the-k-factor-growth-and-going-viral/), an old but very useful article on viral growth.
